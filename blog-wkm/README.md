@@ -1,4 +1,15 @@
-# Blog Wkm 
+# Teste Front-End Working Minds
+
+###### Projeto criado com NodeJS e GruntJS
+###### O Projeto foi criado com a IDE NETBEANS, *então comitei a pasta nbproject*
+###### Para instalar as dependências e executar o projeto faça o seguinte:
+
+* Baixe o projeto para seu ambiente.
+* Tenha o NodeJS instalado em seu ambiente. (https://nodejs.org/en/)
+* Tenha o RUBY instalado em seu ambiente. (https://www.ruby-lang.org/pt/downloads/)
+* Tenha o SASS instalado em seu ambiente. (http://sass-lang.com/install)
+* Navegue até a pasta do projeto (/blog-wkm) e execute o comendo npm install no promp do seu OS.
+
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.0.1.
 
